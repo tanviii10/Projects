@@ -6,7 +6,7 @@ A fun card-flip memory game made with **HTML, CSS (Bootstrap)** and **JavaScript
 🔹 Features
 - 🧠 Match pairs of emoji cards  
 - ⏱️ Timer & 🔁 Moves counter  
-- 🏆 Best score saved with `localStorage`  
+- 🏆 Best score saved  
 - 🎵 Sound effects for flip, match, and win  
 - 📱 Responsive & colorful UI
 
