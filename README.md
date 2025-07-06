@@ -15,7 +15,7 @@ A fun card-flip memory game made with **HTML, CSS (Bootstrap)** and **JavaScript
 
 📁 Filesp
 - `index.html` – Structure  
-- `style.css` – Design (Bootstrap + Custom)  
+- `style.css` – Design  
 - `script.js` – Game logic  
 - `*.mp3` – Sound effects
 
