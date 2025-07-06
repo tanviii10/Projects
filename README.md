@@ -1,4 +1,4 @@
-# Projects
+# WebProject
 🎮 Memory Match Game
 
 A fun card-flip memory game made with **HTML, CSS (Bootstrap)** and **JavaScript**.
@@ -20,5 +20,5 @@ A fun card-flip memory game made with **HTML, CSS (Bootstrap)** and **JavaScript
 - `*.mp3` – Sound effects
 
 🙋‍♀️ Built by
-Tanvi Jagtap 
+**Tanvi Jagtap**
 [LinkedIn](https://www.linkedin.com/in/your-profile)
