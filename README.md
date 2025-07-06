@@ -21,4 +21,4 @@ A fun card-flip memory game made with **HTML, CSS (Bootstrap)** and **JavaScript
 
 🙋‍♀️ Built by
 **Tanvi Jagtap**
-[LinkedIn]((https://www.linkedin.com/in/tanvi-jagtap-367749359/))
+[LinkedIn][((https://www.linkedin.com/in/tanvi-jagtap-367749359/))](https://www.linkedin.com/in/tanvi-jagtap)
